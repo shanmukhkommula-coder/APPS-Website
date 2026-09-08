@@ -19,10 +19,10 @@ const SITE_CONFIG = {
   logo: "assets/images/logo.svg",
 
   // --- Contact details (placeholders — replace with real info) ---
-  phone: "+91 90000 00000",
-  phoneHref: "tel:+919000000000",
+  phone: "+91 99664 06065",
+  phoneHref: "tel:+919966406065",
   email: "info@appsarch.com",
-  address: "3rd Floor, Tech Park Avenue, Hitech City, Hyderabad, Telangana 500081, India",
+  address: "401, Akula Residency, Chandanagar, Hyderabad, Telangana 500050, India",
   mapEmbedUrl: "https://www.google.com/maps?q=Hitech+City+Hyderabad&output=embed",
 
   // --- Social links (leave blank "" to hide an icon) ---
